@@ -1,0 +1,15 @@
+# Hello, I'm Owen Edwards
+
+## Contact Me
+[![LinkedIn](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/edwardoa/)
+[![Website](./img/icons8-website-48.png)](https://owenaedwards.github.io/)
+[![Mail](./img/icons8-mail-48.png)](mailto:edwardoa@mail.uc.edu)
+
+## About Me
+
+### Computer Science student at University of Cincinnati
+![UC](./img/uc-logo.jpg)
+### Currently on co-op as a software developer at Siemens Digital Industries Software
+![Siemens](./img//Siemens-logo.svg)
+### **Available for co-op in Summer, 2024**
+### [Click here to see my resume!](./other/R%C3%A9sum%C3%A9.pdf "Resume")
