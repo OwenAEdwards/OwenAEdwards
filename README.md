@@ -9,7 +9,9 @@
 
 ### Computer Science student at University of Cincinnati
 ![UC](./img/uc-logo.jpg)
-### Currently on co-op as a software developer at Siemens Digital Industries Software
+### Currently on internship as a software developer at Paycor
+![Paycor](./img/paycor-logo.png)
+### Previously on co-op as a software developer at Siemens Digital Industries Software
 ![Siemens](./img//Siemens-logo.svg)
-### **Available for co-op in Summer, 2024**
+### **Actively Looking for Full-Time, Software Engineer Position**
 ### [Click here to see my resume!](./other/R%C3%A9sum%C3%A9.pdf "Resume")
