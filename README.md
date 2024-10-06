@@ -2,7 +2,7 @@
 
 ## Contact Me
 [![LinkedIn](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/edwardoa/)
-[![Website](./img/icons8-website-48.png)](https://owenaedwards.github.io/)
+[![Website](./img/icons8-website-48.png)](https://owen-edwards.vercel.app/)
 [![Mail](./img/icons8-mail-48.png)](mailto:edwardoa@mail.uc.edu)
 
 ## About Me
