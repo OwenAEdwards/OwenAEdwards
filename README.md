@@ -14,4 +14,4 @@
 ### Previously on co-op as a software developer at Siemens Digital Industries Software
 ![Siemens](./img//Siemens-logo.svg)
 ### **Actively Looking for Full-Time, Software Engineer Position**
-### [Click here to see my resume!](./other/R%C3%A9sum%C3%A9.pdf "Resume")
+### [Click here to see my resume!](./other/CS_Resume_Owen_Edwards.pdf "Resume")
