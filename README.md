@@ -1,12 +1,12 @@
 # Hello, I'm Owen Edwards
 
-## Contact Me
+## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edwardoa/)
-[![Email](https://img.shields.io/badge/-Email-%230077B3?style=flat&logo=gmail&logoColor=white)](mailto:edwardoa@mail.uc.edu)
+[![Email](https://img.shields.io/badge/-Email-%230077B3?style=flat&logo=outlook&logoColor=white)](mailto:edwardoa@mail.uc.edu)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-4D8CFF?style=flat&logo=vercel)](https://owen-edwards.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=OwenAEdwards&color=FFA500)
 
-## About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science student at the University of Cincinnati
 - 👨‍🏫 Currently a TA for the [Department of Computer Science](https://ceas.uc.edu/academics/departments/computer-science.html) teaching Linux and C
@@ -17,9 +17,7 @@
 
 ### 💼 **Actively Looking for Full-Time, Software Engineer Position**
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="./CS_Resume_Owen_Edwards.pdf" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">View My Resume</a>
-</div>
+[![Resume Button](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge)](./CS_Resume_Owen_Edwards.pdf)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=OwenAEdwards&show_icons=true&theme=radical&hide_rank=true" alt="Owen's GitHub stats" style="height: 200px;" />
