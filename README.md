@@ -2,7 +2,7 @@
 
 ## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edwardoa/)
-[![Email](https://img.shields.io/badge/-Email-%230077B3?style=flat&logo=outlook&logoColor=white)](mailto:edwardoa@mail.uc.edu)
+[![Email](https://img.shields.io/badge/-Email-%230077B3?style=flat&logo=gmail&logoColor=white)](mailto:edwardoa@mail.uc.edu)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-4D8CFF?style=flat&logo=vercel)](https://owen-edwards.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=OwenAEdwards&color=FFA500)
 
