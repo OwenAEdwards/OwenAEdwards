@@ -1,4 +1,4 @@
-# Hello, I'm Owen Edwards
+# Hello, I'm Owen Edwards <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edwardoa/)
