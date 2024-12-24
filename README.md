@@ -10,12 +10,13 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at the University of Cincinnati
-- 👨‍🏫 Currently a TA for the [Department of Computer Science](https://ceas.uc.edu/academics/departments/computer-science.html) teaching Linux and C
-- 🛠️ Previous experience in industry and as a TA:
+- 🚗 Currently working on a [Smart Parking App](https://github.com/OwenAEdwards/Senior-Design-Project) with Dart and Flutter
+- 🛠️ Previous experience in industry:
   - Software Engineer Intern at [Paycor](https://www.paycor.com/) working with Angular, Java, Flask, and Docker on ATS software for 3 months
   - Software Engineer Intern at [Siemens Digital Industries Software](https://plm.sw.siemens.com/en-US/nx/) working in C++ on CAD software for 1 year
+- 👨‍🏫 Previous experience as a teaching assistant:
+  - TA for the [Department of Computer Science](https://ceas.uc.edu/academics/departments/computer-science.html) teaching Linux and C
   - TA for the [Department of Engineering & Computing Education](https://ceas.uc.edu/academics/departments/engineering-education.html) teaching Python
-- 🚗 Currently working on a [Smart Parking App](https://github.com/OwenAEdwards/Senior-Design-Project) with Dart and Flutter
 - ⚡ Learning guitar and playing with my cat 🐈
 
 ### 💼 **Actively Looking for Full-Time, Software Engineer Position**
@@ -31,4 +32,4 @@
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,py,bash,kotlin,dart,cpp,react,angular,svelte,nodejs,dotnet,flask,spring,materialui,tailwind,flutter,docker,kubernetes,aws,azure,linux,mongodb,mysql,postgres,notion,postman,idea,androidstudio,visualstudio&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,java,py,go,bash,kotlin,dart,cpp,react,angular,nodejs,dotnet,flask,spring,materialui,tailwind,flutter,docker,kubernetes,aws,azure,linux,mongodb,mysql,postgres,notion,postman,idea,androidstudio&perline=11)](https://skillicons.dev)
