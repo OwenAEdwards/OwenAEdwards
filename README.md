@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at the University of Cincinnati
-- 🚗 Currently working on a [Smart Parking App](https://github.com/OwenAEdwards/Senior-Design-Project) with Dart and Flutter
+- 🚗 Currently working on a [Smart Parking App](https://github.com/OwenAEdwards/SmartParking) with Dart and Flutter
 - 🛠️ Previous experience in industry:
   - Software Engineer Intern at [Paycor](https://www.paycor.com/) working with Angular, Java, Flask, and Docker on ATS software for 3 months
   - Software Engineer Intern at [Siemens Digital Industries Software](https://plm.sw.siemens.com/en-US/nx/) working in C++ on CAD software for 1 year
