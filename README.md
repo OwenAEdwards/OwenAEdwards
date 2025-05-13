@@ -9,17 +9,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at the University of Cincinnati
-- 🚗 Currently working on a [Smart Parking App](https://github.com/OwenAEdwards/SmartParking) with Dart and Flutter
+- 🎓 Recent Computer Science graduate from the University of Cincinnati (Class of 2025)
+- 🚗 Built a [Smart Parking App](https://github.com/OwenAEdwards/SmartParking) with Dart and Flutter
 - 🛠️ Previous experience in industry:
   - Software Engineer Intern at [Paycor](https://www.paycor.com/) working with Angular, Java, Flask, and Docker on ATS software for 3 months
   - Software Engineer Intern at [Siemens Digital Industries Software](https://plm.sw.siemens.com/en-US/nx/) working in C++ on CAD software for 1 year
 - 👨‍🏫 Previous experience as a teaching assistant:
   - TA for the [Department of Computer Science](https://ceas.uc.edu/academics/departments/computer-science.html) teaching Linux and C
   - TA for the [Department of Engineering & Computing Education](https://ceas.uc.edu/academics/departments/engineering-education.html) teaching Python
-- ⚡ Learning guitar and playing with my cat 🐈
+- ⚡ Outside of coding, I enjoy playing guitar and hanging out with my cat 🐈
 
-### 💼 **Actively Looking for Full-Time, Software Engineer Position**
+### 💼 **Open to Full-Time Roles in Backend, Full-Stack, or Cloud Engineering**
 
 [![Resume Button](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge)](./CS_Resume_Owen_Edwards.pdf)
 
